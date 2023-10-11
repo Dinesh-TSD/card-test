@@ -1,0 +1,30 @@
+
+
+.row .box{
+
+    background-color: rgb(255, 255, 255);
+    margin: 20px;
+}
+.row .fa {
+    color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 60px;
+}
+.box h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
